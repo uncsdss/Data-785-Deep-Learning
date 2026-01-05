@@ -4,13 +4,9 @@ Welcome to the repository for the **DATA 785: Deep Learning Live Sessions**. Thi
 
 These materials are not intended as standalone tutorials, but rather as references for those attending the sessions.
 
----
-
 ## Structure
 
 Notebooks are organized by session and will be added over time as the course progresses.
-
----
 
 ## Contact
 
